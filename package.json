@@ -1,9 +1,9 @@
 {
-  "name": "zapier-platform-json-schema",
-  "version": "0.4.9",
+  "name": "@supermercadoscaetano/zapier-platform-json-schema",
+  "version": "0.4.10",
   "description": "Lib to convert JSON-Schema to zapier schema",
   "main": "build/Index.js",
-  "repository": "B-Stefan/zapier-platform-json-schema",
+  "repository": "Supermercados-Caetano/zapier-platform-json-schema",
   "author": "Stefan Bieliauskas <open@conts.de>",
   "license": "MIT",
   "private": false,
