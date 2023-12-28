@@ -1,6 +1,6 @@
 {
   "name": "@supermercadoscaetano/zapier-platform-json-schema",
-  "version": "0.4.11",
+  "version": "0.4.12",
   "description": "Lib to convert JSON-Schema to zapier schema",
   "main": "build/Index.js",
   "repository": "Supermercados-Caetano/zapier-platform-json-schema",
