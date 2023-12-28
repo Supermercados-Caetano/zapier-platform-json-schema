@@ -1,6 +1,6 @@
 import ZapierSchemaGenerator from "../src/ZapierSchemaGenerator";
 import ZapierSchemaBuilder from "../src/ZapierSchemaBuilder";
-import { mocked } from "ts-jest/utils";
+//import { mocked } from "ts-jest";
 import { JSONSchema } from "../src/types/JSONSchema";
 import Registry from "../src/Registry";
 import { FieldSchemaKey } from "../src/types/FieldSchema";
